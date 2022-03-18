@@ -1,7 +1,7 @@
 Hi, welcome to GameSea!
 
 Currently the only code we have available is for our FlagShip title, MetaPlunder. 
-You can look over the Unity WebGL build and .html file to see how we connect our game to the Solana Network.
+You can look over the Unity WebGL build's index.html file to see how we connect our game to the Solana Network.
 
 Try the free-to-play version here: http://www.metaplunder.io/demo
 
